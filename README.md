@@ -26,12 +26,12 @@ cd foundry-smart-contract-lottery-f23
 make install
 ```
 
-2. Test
+2. **Test**
 ```bash
 forge test
 ```
 
-3. Deploy (Sepolia example)
+3. **Deploy (Sepolia example)**
 ```bash
 make deploy-sepolia
 ```
